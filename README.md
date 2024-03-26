@@ -19,5 +19,5 @@ No prior knowledge of HTML or CSS is required for this workshop. Participants sh
 - Familiarize yourself with basic computer operations (opening files, saving files, etc.).
 
 ## Resources
-[Presentation](https://docs.google.com/presentation/d/1ICnhxbDba1GqK4ZFogNnnhQTDdL7gQIDBYVCsoQytOs/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1ICnhxbDba1GqK4ZFogNnnhQTDdL7gQIDBYVCsoQytOs/edit?usp=sharing) 
 [W3Schools HTML](https://www.w3schools.com/html/default.asp)
