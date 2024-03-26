@@ -12,11 +12,11 @@ By the end of this workshop, participants will:
 - Learn how to style HTML elements using CSS.
 - Apply responsive design principles to create mobile-friendly layouts.
 
-### Prerequisites and Preparation
+## Prerequisites and Preparation
 No prior knowledge of HTML or CSS is required for this workshop. Participants should have access to a computer with a text editor and a web browser.
 - Ensure you have a stable internet connection.
 - Install a text editor such as Visual Studio Code, Sublime Text, or Atom.
 - Familiarize yourself with basic computer operations (opening files, saving files, etc.).
 
-### Resources
+## Resources
 [W3Schools HTML](https://www.w3schools.com/html/default.asp)
